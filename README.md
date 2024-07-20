@@ -1,0 +1,2 @@
+# Fire-detection-2-using-Deep-learning-teachable-machine
+ I’ll create an illustration representing a GitHub repository that provides users with a machine learning tool capable of classifying images into categories such as ‘Forest’ or ‘Fired forest’. The illustration will showcase the ability to train models using visual data inputs and adjustable parameters like Epochs, Batch Size, and Learning Rate. 🌳
